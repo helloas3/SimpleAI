@@ -1,0 +1,2 @@
+# SimpleAI
+Simple AI technics
